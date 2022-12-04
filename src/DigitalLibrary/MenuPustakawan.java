@@ -445,7 +445,6 @@ public class MenuPustakawan extends javax.swing.JFrame {
 
     private void bclearActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_bclearActionPerformed
         // TODO add your handling code here:
-        bersihdata();
     }//GEN-LAST:event_bclearActionPerformed
 
     /**
